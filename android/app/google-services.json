@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "841884214826",
+    "project_id": "piastorm-67149",
+    "storage_bucket": "piastorm-67149.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:841884214826:android:a2012089b53ae545c94553",
+        "android_client_info": {
+          "package_name": "com.piastorm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "841884214826-1gg2hkurvdc4ggqvsv5mggq48cm4tu50.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.piastorm",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "841884214826-9uqet1ulnn8nio3nqhf86ii31r0j7asf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANlAY3d2TGWFuhNIMFN_mpS6D-5gHQyEE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "841884214826-9uqet1ulnn8nio3nqhf86ii31r0j7asf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
